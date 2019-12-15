@@ -1,0 +1,18 @@
+{
+    "name": "lee/contact",
+    "description": "Allow users can send email to admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lenghia95",
+            "email": "nghia.le@efe.com.vn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lee\\Contact\\": "src/"
+        }
+    }
+}
